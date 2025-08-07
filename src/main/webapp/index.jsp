@@ -888,7 +888,7 @@
                 <span class="product-badge">New</span>
                 <img src="https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Smartphone" class="product-img">
                 <div class="product-info">
-                    <h3>iPhone 14 Pro Max</h3>
+                    <h3>Android phone</h3>
                     <div class="price">$1,099 <span class="old-price">$1,199</span></div>
                     <div class="rating">★★★★★ <span>(128)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
@@ -916,7 +916,7 @@
             <div class="product-card">
                 <img src="https://images.unsplash.com/photo-1542272604-787c3835535d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&q=80" alt="Sneakers" class="product-img">
                 <div class="product-info">
-                    <h3>Nike Air Max 270</h3>
+                    <h3>Rebook air</h3>
                     <div class="price">Rs900</div>
                     <div class="rating">★★★★☆ <span>(53)</span></div>
                     <button class="add-to-cart">Add to Cart</button>
